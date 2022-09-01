@@ -2,6 +2,7 @@ import React from "react";
 import classes from "./FormMovie.module.css";
 
 const FormMovies = (props) => {
+  //Structure and layout of the props info
   return (
       <div className={classes.movie_div}>
         <div className={classes.movie}>

@@ -5,6 +5,7 @@ import Button from '../UI/Button';
 
 const FormInput = () =>
 {
+    //Rendering the Form inputs component
     return (
         <Card className={classes.card}>
             <div className={classes.input_field}>
