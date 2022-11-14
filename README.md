@@ -14,11 +14,11 @@ An application which movies of the stars wars movie using the star wars API
 
 The application automatically fetches for the information when you load it, but you can always refresh or re-fetch the data by clicking on the fetch movies button.
 
-![Form](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketform.png?raw=true)
+![button](https://github.com/Eniola-Codes/Consuming-Stars-wars-Movie-demo-Api-/blob/main/src/assets/button.png?raw=true)
 
 It then displays the star wars movie information in a card list 
 
-![Error messsage](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketerror.png?raw=true)
+![Card](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketerror.png?raw=true)
 
 **Technologies**
 
