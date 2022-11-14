@@ -1,4 +1,4 @@
-# Bucket List application
+# Star wars movie app
 
 An application which movies of the stars wars movie using the star wars API
 
