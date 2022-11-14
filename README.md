@@ -18,7 +18,7 @@ The application automatically fetches for the information when you load it, but 
 
 It then displays the star wars movie information in a card list 
 
-![Card](https://github.com/Eniola-Codes/Bucket-List-App/blob/main/src/asset/bucketerror.png?raw=true)
+![Card](https://github.com/Eniola-Codes/Consuming-Stars-wars-Movie-demo-Api-/blob/main/src/assets/movie%20info.png?raw=true)
 
 **Technologies**
 
